@@ -59,7 +59,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Stage 1.B: Intake - Creating Tickets
 
-- Create your 2nd Ticket
+- Open osTicket: http://localhost/osTicket/
+
+- Select: `Open a New Ticket`
+
+- <ins>Create your 2nd Ticket</ins>
 
   - Email Address: `Ken@osticket.com`
 
@@ -79,7 +83,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Stage 1.C: Intake - Creating Tickets
 
--
+- Open osTicket: http://localhost/osTicket/
+
+- Select: `Open a New Ticket`
+
+- <ins>Create your 3rd and Final Ticket</ins>
+
+  - Email Address: `Karen@osticket.com`
+
+  - Name: `Karen Karen`
+
+  - Help Topic: `General Inquiry`
+
+  - Issue Summary: `When are we getting a hardware refresh`
+ 
+  - Ticket Details: `Most of my department is having issues with their current tablets, we need this ASAP. Please provide info.`
+
+- Click: `Create Ticket`
 
 <img width="1511" alt="isolated" src=""><br>
 
