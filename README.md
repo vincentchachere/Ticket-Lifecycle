@@ -101,7 +101,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Click: `Create Ticket`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/77638ea1-7445-41bf-a078-bb8161e68e52"><br>
 
 ***
 
