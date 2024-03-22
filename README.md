@@ -162,13 +162,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
 ***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/67f03bc3-3233-4832-b0f6-5bdbb0f5880d"><br>
+
+***
 
 ### Stage 3: Working the Issue
 
 - On the back end, Jane is working with the System Adminstrator team to resolve the issue.
 
-<img width="1511" alt="isolated" src=""><br>
-***
 <img width="1511" alt="isolated" src=""><br>
 ***
 <img width="1511" alt="isolated" src=""><br>
