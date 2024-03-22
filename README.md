@@ -152,8 +152,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/3ace9fa8-d642-4a7c-84e2-9c8aa1e69c6b"><br>
 ***
+
+*Here is where you will see the history and updates of the tickets.*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
 ***
+
+*The organizaition you work for will determine the type of details you will input into the description.*
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
 ***
 
