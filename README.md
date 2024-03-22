@@ -148,10 +148,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a554032d-af6a-4a58-8b61-4eb41fb8eb68"><br>
 ***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/7e8ed40c-2af1-47b0-9c21-f46559d890f8"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/3ace9fa8-d642-4a7c-84e2-9c8aa1e69c6b"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
+***
 
 ### Stage 3: Working the Issue
 
 - On the back end, Jane is working with the System Adminstrator team to resolve the issue.
+
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
+***
 
 ### Stage 4: Resolution
      
@@ -166,7 +183,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - The ticket should now be on the "closed" tab since it has been resolved.
 
 <img width="1511" alt="isolated" src=""><br>
-
+***
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
+***
+<img width="1511" alt="isolated" src=""><br>
 ***
 
 Congratulations! You have created and resolved your first few tickets!
