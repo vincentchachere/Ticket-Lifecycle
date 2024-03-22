@@ -1,4 +1,4 @@
-<p align="center">
+e<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -105,7 +105,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 *If you do not see all your tickets then you will need to remake then, for some reason it does not load/refresh properly sometimes.*
 
-- Login to osTicket as an: `Agent`
+- Login to osTicket as an: `Agent (Jane Doe)`
 
 - Click Ticket: `When are we getting a hardware refresh`
 
