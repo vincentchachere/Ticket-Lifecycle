@@ -120,7 +120,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Priority: `Emergency`
 
-- Department: `System Administrators`
+  - `Business Impacting Event`
+
+- Click Department:
+
+  - Select: `System Administrators`
 
   - Details: `Sys Admins responsible for mobile banking infrastructure`
  
@@ -130,23 +134,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - SLA Plan: `SEV-A`
 
+  - Details: `Business Impacting, Critical Event`
 
-
-
-
-- `Business Impacting, Critical Incident`
-
-- Response Text ox: `Coordinating with Sys Admin Team to bring mobile banking back online.`
+- Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
 
 - Select: `Post Reply`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ac565d54-a31d-4a66-9487-6cd925336d1f"><br>
 ***
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/c0730a75-c864-4f7f-8891-9afcbdedb42a"><br>
 ***
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/36c0c3af-eef1-42fe-995b-a1434502f81a"><br>
 ***
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a554032d-af6a-4a58-8b61-4eb41fb8eb68"><br>
 ***
 
 ### Stage 3: Working the Issue
