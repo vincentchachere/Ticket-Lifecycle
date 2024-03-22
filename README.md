@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - Issue Summary: `Entire mobile online banking is down`
  
-  - Ticket Details: `Customers are reporting they are getting a 404 error when browsing to online banking`
+  - Ticket Details: `Customers are reporting they are getting a 404 error when browsing to online banking.`
 
 - Click: `Create Ticket`
  
@@ -49,7 +49,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
- <img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/d1feaef0-f9a3-4003-8e37-c6762317e266"><br>
 
 ***
 
@@ -73,7 +73,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Click: `Create Ticket`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/54f22c6d-aaac-4aa7-92d5-c34925ed2f2d"><br>
 
 ***
 
@@ -97,7 +97,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Click: `Create Ticket`
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/5555abdd-f15e-49d6-9dbc-6ce3844088a2"><br>
 
 ***
 
