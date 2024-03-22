@@ -109,7 +109,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - The one you made in the 'Post-Install-Config Lab' on [Step 6.B](https://github.com/vincentchachere/post-install-config)
 
-- Click: The `When are we getting a hardware refresh` Ticket
+- Click: The `entire mobile online banking is down` Ticket
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 ***
