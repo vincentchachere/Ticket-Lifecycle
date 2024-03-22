@@ -140,9 +140,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Select: `Post Reply`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/5acaa1c0-da8b-47be-8e2a-1731c99c5849"><br>
+<img width="1511" alt="isolated" src=""><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ad942f38-76c5-4543-95f4-d6689bf0cd73"><br>
+<img width="1511" alt="isolated" src=""><br>
 ***
 <img width="1511" alt="isolated" src=""><br>
 ***
@@ -169,4 +169,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-Congratulations! You have created and resolved your first ticket!``
+Congratulations! You have created and resolved your first few tickets!
