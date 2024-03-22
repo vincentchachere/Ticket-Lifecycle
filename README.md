@@ -53,10 +53,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a4ea2ede-618c-4095-a03a-a67bb9f2f3a7"><br>
-
-***
-
 ### Stage 1.B: Intake - Creating Tickets
 
 - Open osTicket: http://localhost/osTicket/
@@ -107,36 +103,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Step 2: Assignment and Communication
 
-- Sign into osTicket as an Agent
+*If you do not see all your tickets then you will need to remake then, for some reason it does not load/refresh properly sometimes.*
 
-  - We created jane.doe in previous tutorial, log in with those credentials. 
+- Login to osTicket as an: `Agent`
 
-  - Select the ticket we created in Step 1.
+- Click Ticket: `When are we getting a hardware refresh`
 
-<img width="1511" alt="isolated" src=""><br>
+  - Priority: Emergency
 
+  - Mobile online banking down can lead to losses in revenue for the company
+
+  - Assigned to: Jane Doe
+
+  - SLA Plan: SEV-A
+
+  - Business impacting, critical incident
+
+  - Department: System Administrators 
+
+  - Sys Admins responsible for mobile banking infrastructure
+
+  - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+
+- Select: Post Reply
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/21a73bfb-0a03-4463-bcab-31c86a248023"><br>
 ***
-
-- Priority: Emergency
-
-- Mobile online banking down can lead to losses in revenue for the company
-
-- Assigned to: Jane Doe
-
-- SLA Plan: SEV-A
-
-- Business impacting, critical incident
-
-- Department: System Administrators 
-
-- Sys Admins responsible for mobile banking infrastructure
-
-- Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
-
-- Select Post Reply
-
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/5acaa1c0-da8b-47be-8e2a-1731c99c5849"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ad942f38-76c5-4543-95f4-d6689bf0cd73"><br>
+***
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/76fd1059-e849-48c4-9a1a-8daa4ea65ec2"><br>
+***
 <img width="1511" alt="isolated" src=""><br>
-
 ***
 
 ### Stage 3: Working the Issue
