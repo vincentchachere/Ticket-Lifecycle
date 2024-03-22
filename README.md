@@ -25,7 +25,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 
-### Stage 1: Intake - Creating a Ticket
+### Stage 1.A: Intake - Creating Tickets
+
+<ins>We will create 3 different tickets and there will be 3 parts to Stage 1 (1.A - 1.B - 1.C)</ins>
 
 - Open osTicket: http://localhost/osTicket/
 
@@ -55,6 +57,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
+### Stage 1.B: Intake - Creating Tickets
+
+- Create your 2nd Ticket
+
+  - Email Address: `Ken@osticket.com`
+
+  - Name: `Ken Ken`
+
+  - Help Topic: `Personal Computer Issues`
+
+  - Issue Summary: `Entire Account Dept Adobe Reader Not Working`
+ 
+  - Ticket Details: `Ever since the upgrade last night, nobody in accounting has been able to use adobe reader.`
+
+- Click: `Create Ticket`
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/96b08858-4c53-47ad-bd32-048503e74a53"><br>
+
+***
+
+### Stage 1.C: Intake - Creating Tickets
+
+-
+
+<img width="1511" alt="isolated" src=""><br>
+
+***
+
 ### Step 2: Assignment and Communication
 
 - Sign into osTicket as an Agent
@@ -63,7 +93,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - Select the ticket we created in Step 1.
 
- <img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
