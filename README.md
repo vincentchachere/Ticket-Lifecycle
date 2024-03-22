@@ -105,10 +105,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 *If you do not see all your tickets then you will need to remake then, for some reason it does not load/refresh properly sometimes.*
 
-- Login to osTicket as an: `Agent (Jane Doe)`
+- Login to osTicket as an: `Agent (User: jane.doe / jane.doe@gmail.com)`
 
 - Click Ticket: `When are we getting a hardware refresh`
 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
+***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/21a73bfb-0a03-4463-bcab-31c86a248023"><br>
 ***
 
