@@ -101,7 +101,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-### Step 2: Assignment and Communication
+### Step 2.A: Assignment and Communication
 
 *If you do not see all your tickets then you will need to remake then, for some reason it does not load/refresh properly sometimes.*
 
@@ -114,7 +114,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/42b4bdfe-80d3-4529-8d77-9774eaab93b3"><br>
+
 ***
+
+### Step 2.B: Assignment and Communication
 
 *When mobile online banking is down it can lead to major loss in revenue for the company.*
 
@@ -136,9 +139,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - Details: `Business Impacting, Critical Event`
 
-- Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
-
-- Select: `Post Reply`
+*There are 5 images between this step (2.A) and the next Step (2.B)*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ac565d54-a31d-4a66-9487-6cd925336d1f"><br>
 ***
@@ -149,16 +150,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a554032d-af6a-4a58-8b61-4eb41fb8eb68"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/7e8ed40c-2af1-47b0-9c21-f46559d890f8"><br>
-***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/3ace9fa8-d642-4a7c-84e2-9c8aa1e69c6b"><br>
+
 ***
 
-*This is where you will see the history and updates of the tickets.*
+### Step 2.C: Assignment and Communication
+
+- Make sure yours matches the image below and continue to the next step.
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/3ace9fa8-d642-4a7c-84e2-9c8aa1e69c6b"><br>
+
+***
+
+*This is where you will see the history and updates of the tickets. &darr;*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
+
 ***
 
-*The organizaition you work for will determine the type of details you will input into the description.*
+### Step 2.D: Assignment and Communication
+
+- Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
+
+- Select: `Post Reply`
+
+*Side Note: The organizaition you work for will determine the type of details you type into the description.*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
 ***
