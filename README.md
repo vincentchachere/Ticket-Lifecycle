@@ -107,7 +107,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Login to osTicket as an: `Agent (User: jane.doe / jane.doe@gmail.com)`
 
-- Click Ticket: `When are we getting a hardware refresh`
+- Click: The `When are we getting a hardware refresh` Ticket
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 ***
