@@ -49,7 +49,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
- <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/67e6a10d-1a77-41e0-9f82-ca91ed18f91a"><br>
+ <img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -73,7 +73,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Click: `Create Ticket`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/96b08858-4c53-47ad-bd32-048503e74a53"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -97,7 +97,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Click: `Create Ticket`
 
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/77638ea1-7445-41bf-a078-bb8161e68e52"><br>
+<img width="1511" alt="isolated" src=""><br>
 
 ***
 
@@ -113,7 +113,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/21a73bfb-0a03-4463-bcab-31c86a248023"><br>
+<img width="1511" alt="isolated" src=""><br>
 ***
 
 *When mobile online banking is down it can lead to major loss in revenue for the company.*
