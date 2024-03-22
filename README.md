@@ -107,7 +107,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Login to osTicket as an: `Agent (User: jane.doe / jane.doe@gmail.com)`
 
-  - The one you made in Post-Install-Config at [Step 6.B](https://github.com/vincentchachere/post-install-config)
+  - The one you made in the 'Post-Install-Config Lab' on [Step 6.B](https://github.com/vincentchachere/post-install-config)
 
 - Click: The `When are we getting a hardware refresh` Ticket
 
@@ -116,29 +116,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/21a73bfb-0a03-4463-bcab-31c86a248023"><br>
 ***
 
-- Priority: Emergency
+*When mobile online banking is down it can lead to major loss in revenue for the company.*
 
-  - Mobile online banking down can lead to losses in revenue for the company
+- Priority: `Emergency`
 
-  - Assigned to: Jane Doe
+- Department: `System Administrators`
 
-  - SLA Plan: SEV-A
+  - Details: `Sys Admins responsible for mobile banking infrastructure`
+ 
+  - Click: `Transfer`
 
-  - Business impacting, critical incident
+- Assigned to: `Jane Doe`
 
-  - Department: System Administrators 
+- SLA Plan: `SEV-A`
 
-  - Sys Admins responsible for mobile banking infrastructure
 
-  - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
 
-- Select: Post Reply
+
+
+- `Business Impacting, Critical Incident`
+
+- Response Text ox: `Coordinating with Sys Admin Team to bring mobile banking back online.`
+
+- Select: `Post Reply`
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/5acaa1c0-da8b-47be-8e2a-1731c99c5849"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ad942f38-76c5-4543-95f4-d6689bf0cd73"><br>
 ***
-<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/76fd1059-e849-48c4-9a1a-8daa4ea65ec2"><br>
+<img width="1511" alt="isolated" src=""><br>
 ***
 <img width="1511" alt="isolated" src=""><br>
 ***
