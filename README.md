@@ -113,7 +113,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 ***
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/42b4bdfe-80d3-4529-8d77-9774eaab93b3"><br>
 ***
 
 *When mobile online banking is down it can lead to major loss in revenue for the company.*
