@@ -27,23 +27,40 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Stage 1: Intake - Creating a Ticket
 
-- Open osTicket
-- Select Open a New Ticket
-  - Email Address: <a href='#' style='text-decoration: none; color:#000000'>karen@osTicket.com</a>
-  - Name: Karen Karen
-  - Help Topic Dropdown Menu: Business Critical Outage
-    - Issue Summary: Entire mobile online banking is down
-    - Details: Customers are reporting they are getting a 404 error when browsing to online banking
-  - Create Ticket
+- Open osTicket: http://localhost/osTicket/
+
+- Select: `Open a New Ticket`
+
+  - Email Address: `Karen@osticket.com`
+
+  - Name: `Karen Karen`
+
+  - Help Topic: `Business Critical Outage`
+
+  - Issue Summary: `Entire mobile online banking is down`
  
-<img width="1511" alt="isolated" src=""><br>
+  - Ticket Details: `Customers are reporting they are getting a 404 error when browsing to online banking`
+
+- Click: `Create Ticket`
+ 
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/673114d4-4c1a-4911-b7e8-da0bf84bfcf8"><br>
+
+***
+
+ <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/67e6a10d-1a77-41e0-9f82-ca91ed18f91a"><br>
+
+***
+
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a4ea2ede-618c-4095-a03a-a67bb9f2f3a7"><br>
 
 ***
 
 ### Step 2: Assignment and Communication
 
 - Sign into osTicket as an Agent
+
   - We created jane.doe in previous tutorial, log in with those credentials. 
+
   - Select the ticket we created in Step 1.
 
  <img width="1511" alt="isolated" src=""><br>
@@ -92,4 +109,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-Congratulations! You have created and resolved your first ticket!
+Congratulations! You have created and resolved your first ticket!``
