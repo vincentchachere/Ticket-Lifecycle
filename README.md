@@ -159,8 +159,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/3ace9fa8-d642-4a7c-84e2-9c8aa1e69c6b"><br>
 
-***
-
 - *Side Note: This is where you will see the history and updates of the tickets. &darr;*
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
