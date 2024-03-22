@@ -129,6 +129,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/21a73bfb-0a03-4463-bcab-31c86a248023"><br>
 ***
+
+- Priority: Emergency
+
+  - Mobile online banking down can lead to losses in revenue for the company
+
+  - Assigned to: Jane Doe
+
+  - SLA Plan: SEV-A
+
+  - Business impacting, critical incident
+
+  - Department: System Administrators 
+
+  - Sys Admins responsible for mobile banking infrastructure
+
+  - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+
+- Select: Post Reply
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/5acaa1c0-da8b-47be-8e2a-1731c99c5849"><br>
 ***
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/ad942f38-76c5-4543-95f4-d6689bf0cd73"><br>
