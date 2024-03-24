@@ -64,10 +64,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/61b97e7e-8775-40a9-b0cf-87b5d10b420d"><br>
 
+***
+
 - Click: The `entire mobile online banking is down` Ticket we made in the prior step of this lab (step 1)
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/be5ca860-cb78-4789-b63b-93071064bd09"><br>
+
+***
 
 - Priority: `Emergency`
 
@@ -77,6 +81,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/c0730a75-c864-4f7f-8891-9afcbdedb42a"><br>
+
+***
 
 - Click: `Department`
 
@@ -89,12 +95,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/36c0c3af-eef1-42fe-995b-a1434502f81a"><br>
 
+***
+
 - Assigned to: `Jane Doe`
 
   - Click: `Assign`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/a554032d-af6a-4a58-8b61-4eb41fb8eb68"><br>
+
+***
 
 - SLA Plan: `SEV-A`
 
@@ -105,15 +115,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/7e8ed40c-2af1-47b0-9c21-f46559d890f8"><br>
 
+***
+
 >**Note: *Make sure your ticket information matches the image below and continue to the next step.***
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/2fcefd0b-2348-4657-9815-518cf0a24ef3"><br>
 
+***
+
 >**Note: *This is where you will see the history and updates of the tickets. &darr;***
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
+
+***
 
 - Response Text Box: `Coordinating with Sys Admin Team to bring mobile banking back online.`
 
@@ -123,6 +139,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
+
+***
 
 - Go Back To: The `entire mobile online banking is down` Ticket
 
@@ -147,6 +165,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/9a8e565a-0549-4171-8c0d-72dbb5d37afe"><br>
+
+***
 
 *<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
 
