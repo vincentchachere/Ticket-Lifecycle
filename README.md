@@ -145,10 +145,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Select: `Post Reply`
 
-*<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
-
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/9a8e565a-0549-4171-8c0d-72dbb5d37afe"><br>
+
+*<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/d2229ae1-877e-4184-b659-16a9c9cd60fd"><br>
