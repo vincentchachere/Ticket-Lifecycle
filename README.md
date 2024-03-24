@@ -1,4 +1,4 @@
-e<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -175,6 +175,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/1b17a40a-3193-423b-9bdd-201edc1fa24a"><br>
 ***
+
+- Go Back To: The `entire mobile online banking is down` Ticket
+
 <img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/67f03bc3-3233-4832-b0f6-5bdbb0f5880d"><br>
 
 ***
@@ -183,11 +186,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - On the back end, Jane is working with the System Adminstrator team to resolve the issue.
 
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/9a8e565a-0549-4171-8c0d-72dbb5d37afe"><br>
 ***
-<img width="1511" alt="isolated" src=""><br>
-***
-<img width="1511" alt="isolated" src=""><br>
+<img width="1511" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/06145db8-800f-4b27-8b5b-f4f446b2ceec"><br>
+
 ***
 
 ### Stage 4: Resolution
@@ -213,4 +215,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1511" alt="isolated" src=""><br>
 ***
 
-Congratulations! You have created and resolved your first few tickets!
+Congratulations! You created and resolved your first few tickets!
