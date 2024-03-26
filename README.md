@@ -8,12 +8,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (macOS)
 - Internet Information Services (IIS)
 
 ## Operating Systems Used
 
-- macOS
 - Windows 10</b> (21H2)
 
 ## Ticket Lifecycle Stages
