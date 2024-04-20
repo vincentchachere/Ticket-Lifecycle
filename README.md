@@ -173,3 +173,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/d2229ae1-877e-4184-b659-16a9c9cd60fd"><br>
 
 🎉 Congratulations! You have created and resolved your first few tickets! 🎉
+
+☎️ For any questions, concerns, or just to connect, you can contact me at:
+
+📲 LinkedIn: www.linkedin.com/in/vincentchachere
+
+📬 Email: vincent.chachere@gmail.com
+
+(No soliticing, only real connections, please and thank you.)
