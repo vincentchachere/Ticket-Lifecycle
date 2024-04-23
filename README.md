@@ -81,6 +81,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Click: `Update`
 
 <p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/39ec18b0-7118-40fa-ad82-2038c5173c64"><br>
+<p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/c0730a75-c864-4f7f-8891-9afcbdedb42a"><br>
 
 ***
