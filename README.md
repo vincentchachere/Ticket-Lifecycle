@@ -56,6 +56,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ### Step 2. ) Assignment and Communication
 
+- *You'll need to logout of your original user login account, if you haven't already.*
+
 - Login to osTicket as an Agent: `(User: jane.doe / jane.doe@gmail.com)`
 
   - The one you made in the 'Post-Install-Config` lab on [Step 6.B](https://github.com/vincentchachere/post-install-config)
@@ -68,7 +70,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Click: The `entire mobile online banking is down` Ticket we made in the prior step of this lab (step 1)
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/be5ca860-cb78-4789-b63b-93071064bd09"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/4b5999ab-d140-4fde-ab70-819c3e4e18f6"><br>
 
 ***
 
