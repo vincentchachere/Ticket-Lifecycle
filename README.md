@@ -123,7 +123,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 >**Note: *Make sure your ticket information matches the image below and continue to the next step.***
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/2fcefd0b-2348-4657-9815-518cf0a24ef3"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/b24b24ca-bde3-42cc-bab7-d5b4cd8a036e"><br>
 
 ***
 
@@ -145,10 +145,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-- Go Back To: The `entire mobile online banking is down` Ticket
+>**Note: *As you see, the message immediately populated inside of the ticket thread.***
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/144b43ef-ea8a-4997-bc9c-de5c09c98ae0"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/1a3d6911-74ca-4273-8af5-55dc285085b4"><br>
+
+***
+
+- Go Back To: The `entire mobile online banking is down` Ticket
+
+  - *Notice that the Priorty and the Department sections have been updated.*
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/ea59a152-6bc6-4abf-9cf1-f729f8339c40"><br>
 
 ***
 
@@ -171,10 +180,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ***
 
-*<ins>The ticket should now be on the "closed" tab since it has been resolved.</ins>*
+- The ticket should now be on the closed. As you will witness, in your your `My Tickets` Tab there are no longer any more tickets, since it has been resolved.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/test-ticket-lifestyle/assets/161680745/d2229ae1-877e-4184-b659-16a9c9cd60fd"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/ecaee293-92df-4ccb-8e5b-67e3cd53334c"><br>
+
+- Now finally, if you go to the `Closed` Tab within your `Tickets` section, you will see the Karen Ticket that you resolved is inside of there. This lets you confim that you have succesfully resolved that ticket.
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/5ae96625-a25d-4e74-9196-3f4502039d84"><br>
+
 
 🎉 Congratulations! You have created and resolved your first few tickets! 🎉
 
