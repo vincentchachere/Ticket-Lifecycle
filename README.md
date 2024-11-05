@@ -193,6 +193,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 🎉 Congratulations! You have created and resolved your first few tickets! 🎉
 
-☎️ For any questions, concerns, or just to connect, you can message me at:
-
-📲 LinkedIn: www.linkedin.com/in/vincentchachere
+☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
