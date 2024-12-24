@@ -207,8 +207,6 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 *On the back end, Jane is working with the System Adminstrator team to resolve the issue.*
 
 <br>
-<br>
-<br>
 
 ### Stage 4. ) Resolution
 
