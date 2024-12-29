@@ -25,7 +25,13 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 
 ## Lifecycle Stages
 
-### Stage 1. ) Intake - Creating Tickets
+<details>
+
+<summary>
+
+### 🎟️ Stage 1: Intake - Creating Tickets
+
+</summary>
 
 - Open osTicket: http://localhost/osTicket/
 
@@ -52,16 +58,20 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 
 - Click: `Create Ticket`
 
-*When mobile online banking is down it can lead to major loss in revenue for the company.***
+*When mobile online banking is down it can lead to major loss in revenue for the company.*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/d1feaef0-f9a3-4003-8e37-c6762317e266"><br>
 
-<br>
-<br>
-<br>
+</details>
 
-### Step 2. ) Assignment and Communication
+<details>
+
+<summary>
+
+### 🎟️ Stage 2: Assignment and Communication
+
+</summary>
 
 <ins>Logout of your original user login account, if you haven't already then</ins>:
 
@@ -147,7 +157,7 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 <br>
 <br>
 
-<ins>Verify your ticket information matches the image below and continue to the next step</ins>.
+<h4 align="center">Verify your ticket information matches the image below and continue to the next step.</h4>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/b24b24ca-bde3-42cc-bab7-d5b4cd8a036e"><br>
@@ -156,7 +166,7 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 <br>
 <br>
 
-<ins>Observing the Ticket Thread is where you will see the history and updates of the tickets</ins>.
+<h4 align="center">The Ticket Thread is where you'll see the history and updates of the tickets.</h4>
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifestyle/assets/161680745/24eb9246-f9ab-4d37-b64f-920b9632a609"><br>
@@ -198,17 +208,27 @@ In this lab, we navigate the osTicket helpdesk system, following the lifecycle o
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/ea59a152-6bc6-4abf-9cf1-f729f8339c40"><br>
 
-<br>
-<br>
-<br>
+</details>
 
-### Stage 3. ) Working the Issue
+<details>
+
+<summary>
+
+### 🎟️ Stage 3: Working the Issue
+
+</summary>
 
 *On the back end, Jane is working with the System Adminstrator team to resolve the issue.*
 
-<br>
+</details>
 
-### Stage 4. ) Resolution
+<details>
+
+<summary>
+
+### 🎟️ Stage 4: Resolution
+
+</summary>
 
 <ins>Once the issue is resolved, head back to the ticket and update the end user, then</ins>
 
@@ -239,4 +259,10 @@ Lastly, if you go to the <ins>Closed Tab</ins> within your <ins>Tickets section<
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/ticket-lifecycle/assets/161680745/5ae96625-a25d-4e74-9196-3f4502039d84"><br>
 
-☎️ For any questions or just to connect you can message me at: www.linkedin.com/in/vincentchachere
+</details>
+
+<h2 align="center">Final Thoughts</h2>
+
+
+
+☎️ For questions or to connect you can message me at: www.linkedin.com/in/vincentchachere
