@@ -265,6 +265,8 @@ Lastly, if you go to the <ins>Closed Tab</ins> within your <ins>Tickets section<
 
 In conclusion, this lab provided hands-on experience in managing the full lifecycle of a ticket within the osTicket helpdesk system, from intake to resolution. By using tools like Microsoft Azure, IIS, and Remote Desktop, we navigated each stage—intake, assignment, communication, working the issue, and final resolution—within a real-world scenario.
 
-To continue building on your knowledge, explore my next lab on [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere/azure-network-protocols), where we dive into configuring security controls and monitoring network traffic in Azure.
+To continue building on your knowledge, explore the next lab on [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere/azure-network-protocols), where we dive into configuring security controls and monitoring network traffic in Azure.
+
+Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
 
 ☎️ For questions or to connect you can message me at: www.linkedin.com/in/vincentchachere
