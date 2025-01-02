@@ -4,7 +4,7 @@
 
 # osTicket - Ticket Lifecycle: Intake Through Resolution
 
-In this lab, we navigate the osTicket helpdesk system, following the lifecycle of a ticket from intake to resolution. Using tools like Microsoft Azure, IIS, and Remote Desktop, we manage and operate the system in a real-world scenario.
+This lab provides hands-on experience with the osTicket help desk system, guiding users through the lifecycle of a support ticket from intake to resolution. Participants will use tools like Microsoft Azure, IIS, and Remote Desktop to manage and operate the system in a real-world scenario, simulating day-to-day help desk operations.
 
 ## Environments and Technologies Used
 
